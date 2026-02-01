@@ -25,8 +25,6 @@ A full-stack car rental web application built with React, Node.js, Express, and 
 ### Manage Cars
 ![Manage Cars](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/8.png)
 
-### Manage Bookings
-![Manage Bookings](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/4.png)
 
 ## ✨ Features
 

@@ -2,7 +2,7 @@
 
 A full-stack car rental web application built with React, Node.js, Express, and MongoDB. Users can browse, search, and book luxury cars, while car owners can list and manage their vehicles.
 
-## 📸 Screenshots
+## 📸 Screenshots of This Project:
 
 ### Home Page
 ![Home Page](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/1.png)

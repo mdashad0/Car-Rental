@@ -2,31 +2,29 @@
 
 A full-stack car rental web application built with React, Node.js, Express, and MongoDB. Users can browse, search, and book luxury cars, while car owners can list and manage their vehicles.
 
-## 📸 Screenshots
+## 📸 Screenshots of This Project:
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/1.png)
 
 ### Available Cars
-![Cars Page](screenshots/cars.png)
+![Cars Page](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/2.png)
 
 ### Car Details & Booking
-![Car Details](screenshots/car-details.png)
+![Car Details](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/3.png)
 
 ### My Bookings
-![My Bookings](screenshots/my-bookings.png)
+![My Bookings](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/5.png)
 
 ### Owner Dashboard
-![Owner Dashboard](screenshots/dashboard.png)
+![Owner Dashboard](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/6.png)
 
 ### Add Car
-![Add Car](screenshots/add-car.png)
+![Add Car](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/7.png)
 
 ### Manage Cars
-![Manage Cars](screenshots/manage-cars.png)
+![Manage Cars](https://github.com/mdashad0/Car-Rental/blob/main/screenshots/8.png)
 
-### Manage Bookings
-![Manage Bookings](screenshots/manage-bookings.png)
 
 ## ✨ Features
 

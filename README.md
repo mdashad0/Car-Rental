@@ -1,4 +1,4 @@
-# 🚗 CarRental - Luxury Car Rental Platform
+# 🚗 CarRental - Luxury Car Rental Platform:
 
 A full-stack car rental web application built with React, Node.js, Express, and MongoDB. Users can browse, search, and book luxury cars, while car owners can list and manage their vehicles.
 
